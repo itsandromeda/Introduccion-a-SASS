@@ -1,0 +1,19 @@
+#container {
+  background-color: #9242f4;
+  width: 80%;
+  margin: 9%; }
+
+#container p {
+  font-family: Arial;
+  font-size: 13px; }
+
+#container h1 {
+  font-family: Tahoma;
+  font-size: 45px;
+  color: white; }
+
+#container h2 {
+  font-family: Helvetica;
+  font-size: 35px; }
+
+/*# sourceMappingURL=style.css.map */
